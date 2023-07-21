@@ -14,14 +14,10 @@
 ## Content Directory:
 ### Contents:
 - [Background](#Background)
-- [Data Import & Cleaning](#Data-Import-&-Cleaning)
-- [Feature Engineering](#Feature-Engineering)
-- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-    - [Sentiment Analysis](#Sentiment-Analysis)
+- [Datasets and Exploration](#Datasets)
 - [Modeling](#Modeling)
-    - [Fine Tuning of Best Models](#Fine-Tuning-of-Best-Models)
-- [Key Insights & Recommendations](#Key-Insights-&-Recommendations)
-- [Reference](#reference)
+- [Key Insights & Recommendations](#Key-Insights)
+- [Reference](#Reference)
 
 <br>
 
